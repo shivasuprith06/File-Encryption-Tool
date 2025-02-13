@@ -30,7 +30,6 @@ Our **File Encryption & Decryption Tool** provides a **user-friendly GUI** for p
 ----------------------------  
 ✅ **Easy-to-Use** – Designed for both beginners and professionals.  
 ✅ **Lightweight & Fast** – Minimal resource consumption for quick encryption/decryption.  
-✅ **Cross-Platform** – Works on Windows, Linux, and macOS.  
 
 💻 **Keep your sensitive files safe and encrypted with just a few clicks!**  
 
